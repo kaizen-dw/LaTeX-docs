@@ -1,6 +1,7 @@
 \documentclass{article}
 \usepackage{amsmath, amssymb, amsfonts}
 \usepackage{float}
+\usepackage{enumerate}
 \parindent 0px
 \pagestyle{empty}
 
@@ -118,5 +119,55 @@ Arrays:
 	5x^2-x-12&=0\\
 	&=12+x-5x^2
 \end{align*}
+
+\pagebreak
+
+\section{Creating Lists}
+
+\begin{enumerate}
+\item pencil
+\item calculator
+\item ruler
+\item notebook
+	\begin{enumerate}
+	\item notes
+	\item homework
+	\item assessments
+		\begin{enumerate}
+		\item tests
+		\item quizzes
+		\item journal entries
+		\end{enumerate}
+	\end{enumerate}
+\item highligthers
+\end{enumerate}
+
+\begin{itemize}
+\item pencil
+\item calculator
+\item ruler
+\item notebook
+\end{itemize}
+
+\begin{enumerate}[A.]
+\item pencil
+\item calculator
+\item ruler
+\item notebook
+\end{enumerate}
+
+\begin{enumerate}[i.]
+\item pencil
+\item calculator
+\item ruler
+\item notebook
+\end{enumerate}
+
+\begin{enumerate}\setcounter{enumi}{5}
+\item pencil
+\item calculator
+\item ruler
+\item notebook
+\end{enumerate}
 
 \end{document}

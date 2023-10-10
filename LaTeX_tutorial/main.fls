@@ -23,6 +23,8 @@ INPUT C:\Users\wolly\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\amsfonts.s
 INPUT C:\Users\wolly\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\amsfonts.sty
 INPUT C:\Users\wolly\AppData\Local\Programs\MiKTeX\tex\latex\float\float.sty
 INPUT C:\Users\wolly\AppData\Local\Programs\MiKTeX\tex\latex\float\float.sty
+INPUT C:\Users\wolly\AppData\Local\Programs\MiKTeX\tex\latex\tools\enumerate.sty
+INPUT C:\Users\wolly\AppData\Local\Programs\MiKTeX\tex\latex\tools\enumerate.sty
 INPUT C:\Users\wolly\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
 INPUT C:\Users\wolly\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
 INPUT .\main.aux
@@ -66,7 +68,10 @@ INPUT C:\Users\wolly\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\sym
 INPUT C:\Users\wolly\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
 INPUT C:\Users\wolly\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
 INPUT C:\Users\wolly\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm5.tfm
+INPUT C:\Users\wolly\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\tcrm1000.tfm
 INPUT main.aux
+INPUT C:\Users\wolly\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1000.pk
+INPUT C:\Users\wolly\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1000.pk
 INPUT C:\Users\wolly\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
 INPUT C:\Users\wolly\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
 INPUT C:\Users\wolly\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmex10.pfb

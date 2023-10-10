@@ -1,7 +1,9 @@
 # Fdb version 4
-["pdflatex"] 1696925380 "c:/Users/wolly/OneDrive/Documents/LaTeX/LaTeX_docs/LaTeX_tutorial/main.tex" "main.pdf" "main" 1696925381 0
+["pdflatex"] 1696926242 "c:/Users/wolly/OneDrive/Documents/LaTeX/LaTeX_docs/LaTeX_tutorial/main.tex" "main.pdf" "main" 1696926243 0
   "C:/Users/wolly/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1696922894 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
+  "C:/Users/wolly/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1000.pk" 1696917066 11548 22953efbf83284cc1aeb4f8317db5bdc ""
   "C:/Users/wolly/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1696904238 24141909 c337330bdfbece91a4ea84fcb785801b ""
+  "C:/Users/wolly/AppData/Local/Programs/MiKTeX/fonts/tfm/jknappen/ec/tcrm1000.tfm" 993062508 1436 c7f957a372ef2fbe93c0982f96625e12 ""
   "C:/Users/wolly/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
   "C:/Users/wolly/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1233951848 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
   "C:/Users/wolly/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/symbols/msam10.tfm" 1233951854 916 f87d7c45f9c908e672703b83b72241a3 ""
@@ -46,9 +48,10 @@
   "C:/Users/wolly/AppData/Local/Programs/MiKTeX/tex/latex/base/size10.clo" 1687174146 8448 74078c4a887f2cdcd57c3ec111622740 ""
   "C:/Users/wolly/AppData/Local/Programs/MiKTeX/tex/latex/float/float.sty" 1469023953 6916 16d2656a1984957e674b149555f1ea1d ""
   "C:/Users/wolly/AppData/Local/Programs/MiKTeX/tex/latex/l3backend/l3backend-pdftex.def" 1681896761 29940 9473d58112bc8a88f5505b823a053dde ""
-  "c:/Users/wolly/OneDrive/Documents/LaTeX/LaTeX_docs/LaTeX_tutorial/main.tex" 1696925379 2545 b41b2926f3003824fef36123697b9519 ""
-  "main.aux" 1696925381 550 423d4f5be8fd9f6921689b55af4ba4e3 "pdflatex"
-  "main.tex" 1696925379 2545 b41b2926f3003824fef36123697b9519 ""
+  "C:/Users/wolly/AppData/Local/Programs/MiKTeX/tex/latex/tools/enumerate.sty" 1686255640 3468 a25a09d5c0a232a2d82e47496071c7fa ""
+  "c:/Users/wolly/OneDrive/Documents/LaTeX/LaTeX_docs/LaTeX_tutorial/main.tex" 1696926241 3337 0a7457766c937604d7831ba1487648d7 ""
+  "main.aux" 1696926243 652 b4101e7bc797e1dfb98b6f919ad8ec2f "pdflatex"
+  "main.tex" 1696926241 3337 0a7457766c937604d7831ba1487648d7 ""
   (generated)
   "main.aux"
   "main.log"
